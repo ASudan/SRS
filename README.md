@@ -1,1 +1,23 @@
 # SRS
+#1.系统分层结构图
+![1](http://7xo04k.com1.z0.glb.clouddn.com/%E7%B3%BB%E7%BB%9F%E5%88%86%E5%B1%82.JPG)
+#2.数据库结构
+![2](http://7xo04k.com1.z0.glb.clouddn.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BB%93%E6%9E%84.JPG)
+#3.类图
+![3](http://7xo04k.com1.z0.glb.clouddn.com/%E7%B1%BB%E5%9B%BE.JPG)
+#4.时序图
+##选课时序图
+![4-1](http://7xo04k.com1.z0.glb.clouddn.com/%E9%80%89%E8%AF%BE%E6%97%B6%E5%BA%8F%E5%9B%BE.jpg)
+##排课时序图
+![4-2](http://7xo04k.com1.z0.glb.clouddn.com/%E6%8E%92%E8%AF%BE%E6%97%B6%E5%BA%8F%E5%9B%BE.jpg)
+#5.运行截图
+##登录
+![5-1](http://7xo04k.com1.z0.glb.clouddn.com/%E8%BF%90%E8%A1%8C1.jpg)
+##选课
+![5-2](http://7xo04k.com1.z0.glb.clouddn.com/%E8%BF%90%E8%A1%8C2.jpg)
+##教师管理
+![5-3](http://7xo04k.com1.z0.glb.clouddn.com/%E8%BF%90%E8%A1%8C4.jpg)
+![5-4](http://7xo04k.com1.z0.glb.clouddn.com/%E8%BF%90%E8%A1%8C5.jpg)
+##课程管理
+![5-5](http://7xo04k.com1.z0.glb.clouddn.com/%E8%BF%90%E8%A1%8C7.jpg)
+![5-6](http://7xo04k.com1.z0.glb.clouddn.com/%E8%BF%90%E8%A1%8C8.jpg)
